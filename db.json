@@ -1,8 +1,16 @@
 {
-  "posts": [
+  "routes": [
     {
-      "id": 1,
-      "title": "hello"
+      "name": "Droga pierwsza",
+      "description": "Opis Drogi pierwszej",
+      "image": "temp",
+      "length": "100",
+      "best_time": "1",
+      "best_time_date": "1",
+      "type": "bike",
+      "username": "Pan bardzo użytkownik",
+      "user_time": "2",
+      "user_time_date": "2"
     }
   ],
   "profile": {
