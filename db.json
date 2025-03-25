@@ -11,6 +11,66 @@
       "username": "Pan bardzo użytkownik",
       "user_time": "2m 45s",
       "user_time_date": "28.03.2024"
+    },
+    {
+      "name": "Droga do chodzenia",
+      "description": "Opis Drogi do chodzenia",
+      "image": "temp",
+      "length": "30",
+      "best_time": "3m 35s",
+      "best_time_date": "04.05.2020",
+      "type": "Na Pieszo",
+      "username": "Pani bardzo użytkowniczka",
+      "user_time": "4m 45s",
+      "user_time_date": "18.10.2023"
+    },
+    {
+      "name": "Droga kolejna",
+      "description": "Opis Drogi kolejnej",
+      "image": "temp",
+      "length": "180",
+      "best_time": "6m 35s",
+      "best_time_date": "03.01.2025",
+      "type": "Rower",
+      "username": "Koleżka Fajny",
+      "user_time": "8m 10s",
+      "user_time_date": "28.03.2024"
+    },
+    {
+      "name": "Droga ze śląska",
+      "description": "Opis ze śląska",
+      "image": "temp",
+      "length": "50",
+      "best_time": "4m 35s",
+      "best_time_date": "29.02.2020",
+      "type": "Rower",
+      "username": "Koleżanka Niefajna",
+      "user_time": "8m 0s",
+      "user_time_date": "08.11.2023"
+    },
+    {
+      "name": "Droga bardzo fajna",
+      "description": "Opis Drogi bardzo fajnej",
+      "image": "temp",
+      "length": "85",
+      "best_time": "1m 35s",
+      "best_time_date": "03.06.2019",
+      "type": "Rower",
+      "username": "nie wiem",
+      "user_time": "2m 45s",
+      "user_time_date": "28.03.2024"
+    },
+    {
+      "name": "Droga ostatnia",
+      "description": "Opis Drogi ostatnia",
+      "image": "temp",
+      "length": "90",
+      "best_time": "1m 35s",
+      "best_time_date": "03.06.2012",
+      "type": "Na Pieszo",
+      "username": "Ide Spac",
+      "user_time": "2m 45s",
+      "user_time_date": "28.03.2026"
     }
   ],
   "profile": {
